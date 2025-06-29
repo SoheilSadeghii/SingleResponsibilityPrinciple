@@ -41,7 +41,7 @@ This is exactly what SRP aims to achieve!
 
 Each class has a **clear and focused purpose**, following SRP best practices.
 
----
+<!-- ---
 
 ## <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="35" height="35" /></a> Project Structure
 
@@ -52,7 +52,7 @@ SingleResponsibilityPrinciple/
 ├── Customer.cs             // Data model
 ├── CustomerRepository.cs   // Customer logic
 └── FileLogger.cs           // Logging utility
-```
+``` -->
 ---
 Thanks for checking out this project!  
 If you found it helpful, feel free to <a href="https://www.linkedin.com/in/soheilsadeghii/"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Star.webp" alt="Star" width="15" height="15" /></a> the repo or share it with others.  
